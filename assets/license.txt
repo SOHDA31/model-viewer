@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seed grown avocado - iPhone 3d scan
+* source:	https://sketchfab.com/3d-models/seed-grown-avocado-iphone-3d-scan-696b288fb1074408b235699d6fe525bc
+* author:	Jacek Jaskólski (https://sketchfab.com/jacekjaskolski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seed grown avocado - iPhone 3d scan" (https://sketchfab.com/3d-models/seed-grown-avocado-iphone-3d-scan-696b288fb1074408b235699d6fe525bc) by Jacek Jaskólski (https://sketchfab.com/jacekjaskolski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
